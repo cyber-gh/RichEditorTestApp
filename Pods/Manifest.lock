@@ -1,0 +1,16 @@
+PODS:
+  - RichEditorViewSwift (0.0.2)
+
+DEPENDENCIES:
+  - RichEditorViewSwift
+
+SPEC REPOS:
+  trunk:
+    - RichEditorViewSwift
+
+SPEC CHECKSUMS:
+  RichEditorViewSwift: 73a1cb650c2a862cdafa4504abd3c40835d5a2dc
+
+PODFILE CHECKSUM: 0ad1f4f186dc61a8f4ff8623cdcd3071df3eddfb
+
+COCOAPODS: 1.8.4

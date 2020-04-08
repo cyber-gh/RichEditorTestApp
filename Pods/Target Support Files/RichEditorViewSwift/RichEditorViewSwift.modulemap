@@ -1,0 +1,6 @@
+module RichEditorViewSwift {
+  umbrella header "RichEditorViewSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
